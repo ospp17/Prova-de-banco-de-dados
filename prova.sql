@@ -35,7 +35,7 @@ from clientes
 left join pedidos 
 on clientes.nome=pedidos.total;
 
--- Q2 --
+-- Q3 --
 
 select email 
 from clientes
